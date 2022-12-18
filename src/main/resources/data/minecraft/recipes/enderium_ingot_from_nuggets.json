@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "enderium_nugget",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "enderfeatures:enderium_nugget"
+    }
+  },
+  "result": {
+    "item": "enderfeatures:enderium_ingot"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.enderfeatures.enderium_ingot": "Barra de Enderium",
+  "item.enderfeatures.enderium_nugget": "Pepita de Enderium",
+  "item.enderfeatures.raw_enderium": "Enderium Bruto",
+  "item.enderfeatures.enderium_sword": "Espada de Enderium",
+  "item.enderfeatures.enderium_netherite_sword": "Espada de Enderium e Netherite",
+  "item.enderfeatures.enderium_pickaxe": "Picareta de Enderium",
+  "item.enderfeatures.enderium_netherite_pickaxe": "Picareta de Enderium e Netherite",
+  "item.enderfeatures.enderium_shovel": "Pá de Enderium",
+  "item.enderfeatures.enderium_netherite_shovel": "Pá de Enderium e Netherite",
+  "item.enderfeatures.enderium_axe": "Machado de Enderium",
+  "item.enderfeatures.enderium_netherite_axe": "Machado de Enderium e Netherite",
+
+  "item.enderfeatures.enderium_helmet": "Capacete de Enderium",
+  "item.enderfeatures.enderium_chestplate": "Peitoral de Enderium",
+  "item.enderfeatures.enderium_leggings": "Calça de Enderium",
+  "item.enderfeatures.enderium_boots": "Bota de Enderium",
+
+  "block.enderfeatures.enderium_ore": "Minério de Enderium"
+}

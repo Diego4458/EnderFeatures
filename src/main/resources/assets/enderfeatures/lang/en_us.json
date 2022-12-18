@@ -1,0 +1,20 @@
+{
+  "item.enderfeatures.enderium_ingot": "Enderium Ingot",
+  "item.enderfeatures.enderium_nugget": "Enderium Nugget",
+  "item.enderfeatures.raw_enderium": "Raw Enderium",
+  "item.enderfeatures.enderium_sword": "Enderium Sword",
+  "item.enderfeatures.enderium_netherite_sword": "Enderium Netherite Sword",
+  "item.enderfeatures.enderium_pickaxe": "Enderium Pickaxe",
+  "item.enderfeatures.enderium_netherite_pickaxe": "Enderium Netherite Pickaxe",
+  "item.enderfeatures.enderium_shovel": "Enderium Shovel",
+  "item.enderfeatures.enderium_netherite_shovel": "Enderium Netherite Shovel",
+  "item.enderfeatures.enderium_axe": "Enderium Axe",
+  "item.enderfeatures.enderium_netherite_axe": "Enderium Netherite Axe",
+
+  "item.enderfeatures.enderium_helmet": "Enderium Helmet",
+  "item.enderfeatures.enderium_chestplate": "Enderium Chestplate",
+  "item.enderfeatures.enderium_leggings": "Enderium Leggings",
+  "item.enderfeatures.enderium_boots": "Enderium Boots",
+
+  "block.enderfeatures.enderium_ore": "Enderium Ore"
+}
